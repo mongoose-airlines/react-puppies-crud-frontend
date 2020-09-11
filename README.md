@@ -1,7 +1,7 @@
 # react-puppies-crud-frontend
 ## This application serves as the front end for a full-stack MERN application demonstrating full CRUD with puppies.  
-## The back end application can be found [here](https://github.com/ManliestBen/node-puppies-crud-backend).
-## Step-by-step instructions can be found [here](https://github.com/ManliestBen/react-puppies-crud-frontend/blob/master/instructions.md).
+## The back end application can be found [here](https://github.com/mongoose-airlines/node-puppies-crud-backend).
+## Step-by-step instructions can be found [here](https://github.com/mongoose-airlines/react-puppies-crud-frontend/blob/main/instructions.md).
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
